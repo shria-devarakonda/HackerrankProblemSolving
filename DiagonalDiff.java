@@ -1,4 +1,4 @@
-// The difference of diagonal sums of an n x n matrix
+// The difference of diagonal sums of an n x n matrix(Non array approach)
 import java.util.*;
 class DiagonalDiff
 {
