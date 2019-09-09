@@ -15,5 +15,6 @@ public class arraysum
           sum = sum+(sc.nextInt());
       }
       System.out.println(sum);
+    
   }
 }
