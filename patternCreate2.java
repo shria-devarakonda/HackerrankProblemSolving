@@ -1,6 +1,6 @@
 //another implementation of problem 6, fewer loops 
 import java.util.*;
-public class Solution {
+public class patternCreate2 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
