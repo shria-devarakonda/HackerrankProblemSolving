@@ -20,5 +20,6 @@ class tripletCompare
     }
     public static void main(String args[])
     {
+        #This happened because the hackerrank compiler was throwing some errors
       compareTriplets();
     }
