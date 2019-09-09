@@ -1,4 +1,4 @@
-#This code is to compare two sets of triplets
+//This code is to compare two sets of triplets
 import java.util.*;
 
 class tripletCompare
@@ -20,6 +20,6 @@ class tripletCompare
     }
     public static void main(String args[])
     {
-        #This happened because the hackerrank compiler was throwing some errors
+       //This happened because the hackerrank compiler was throwing some errors
       compareTriplets();
     }
