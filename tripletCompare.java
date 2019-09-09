@@ -1,4 +1,4 @@
-//This code is to compare two sets of triplets
+//This code is to compare two sets of triplets and add points accordingly
 import java.util.*;
 
 class tripletCompare
