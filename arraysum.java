@@ -1,4 +1,4 @@
-//Sum of an array, given the number of elements in the array
+//Sum of an array, given the number of elements in the array 
 
 import java.util.*;
 
